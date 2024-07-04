@@ -1,6 +1,6 @@
 whitelist = {
   12432144,
-  1
+  2405228342,
 }
 
 return whitelist;
